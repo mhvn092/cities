@@ -2012,8 +2012,15 @@
     "id": 288,
     "name": "وحدتیه",
     "province": 7,
-    "longitude": 51.2369657,
-    "latitude": 29.48306
+    "longitude": 51.0677,
+    "latitude": 28.9325
+  },
+  {
+    "id": 1120,
+    "name": "عالی ‌شهر",
+    "province": 7,
+    "longitude": 54.19923,
+    "latitude": 32.02217
   },
   {
     "id": 289,
