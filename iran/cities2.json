@@ -1981,6 +1981,13 @@
     "latitude": 28.3952701
   },
   {
+    "id": 1120,
+    "name": "عالی ‌شهر",
+    "province": 7,
+    "longitude": 54.19923,
+    "latitude": 32.02217
+  },
+  {
     "id": 284,
     "name": "عسلویه",
     "province": 7,
@@ -2014,13 +2021,6 @@
     "province": 7,
     "longitude": 51.0677,
     "latitude": 28.9325
-  },
-  {
-    "id": 1120,
-    "name": "عالی ‌شهر",
-    "province": 7,
-    "longitude": 54.19923,
-    "latitude": 32.02217
   },
   {
     "id": 289,
@@ -2217,6 +2217,13 @@
     "province": 8,
     "longitude": 51.0627593,
     "latitude": 35.6000722
+  },
+  {
+    "id": 1121,
+    "name": "فرون ‌آباد",
+    "province": 8,
+    "longitude": 51.6188,
+    "latitude": 35.5146
   },
   {
     "id": 317,
